@@ -1,3 +1,3 @@
-module github.com/grigoriymikhalkin/sqlboiler-paginate/common
+module github.com/gregmausa/sqlboiler-paginate/common
 
 go 1.14

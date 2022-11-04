@@ -3,7 +3,7 @@ package paginate
 import (
 	"fmt"
 
-	"github.com/grigoriymikhalkin/sqlboiler-paginate/common"
+	"github.com/gregmausa/sqlboiler-paginate/common"
 	"github.com/volatiletech/sqlboiler/v4/queries/qm"
 )
 
