@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/grigoriymikhalkin/sqlboiler-paginate/common"
+	"github.com/gregmausa/sqlboiler-paginate/common"
 )
 
 func TestOffsetPagination(t *testing.T) {

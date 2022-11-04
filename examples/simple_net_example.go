@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/grigoriymikhalkin/sqlboiler-paginate/common"
-	"github.com/grigoriymikhalkin/sqlboiler-paginate/v4"
+	"github.com/gregmausa/sqlboiler-paginate/common"
+	"github.com/gregmausa/sqlboiler-paginate/v4"
 )
 
 func main() {
